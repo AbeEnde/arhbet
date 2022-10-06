@@ -12,7 +12,7 @@
 
 eureka:
   instance:
-    hostname: ahbe.herokuapp.com
+    hostname: test-app-ahbet.herokuapp.com
     non-secure-port: 80
     prefer-ip-address: false
 
